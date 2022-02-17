@@ -12,4 +12,4 @@ Each time they "check" and are incorrect, a point will be deducted.
 
 # So Much Fun!
 
-...or perhaps it isn't
+...or perhaps it isn't. Depends if you like guessing.
